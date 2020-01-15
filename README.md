@@ -2,7 +2,7 @@
 ![Apple Magic TrackPad](https://raw.githubusercontent.com/M-Mono/Apple_Magic_Trackpad_Windows_Driver/master/Apple%20Magic%20Trackpad.jpg "Apple Magic Trackpad")
 
 ## Apple Magic Trackpad Tech Specs
-Magic Trackpad gives you a whole new way to control what¡¯s on your Mac desktop computer. When you perform gestures, you actually interact with what¡¯s on your screen. You feel closer to your content, and moving around feels completely natural. Swiping through pages on screen is just like flipping through pages in a magazine, and inertial scrolling senses the momentum in your fingers as you move up and down a page.
+Magic Trackpad gives you a whole new way to control whatÂ¡Â¯s on your Mac desktop computer. When you perform gestures, you actually interact with whatÂ¡Â¯s on your screen. You feel closer to your content, and moving around feels completely natural. Swiping through pages on screen is just like flipping through pages in a magazine, and inertial scrolling senses the momentum in your fingers as you move up and down a page.
 
 * Operating with two AA batteries 
 * Height: 0.18 - 0.72 in./0.46 - 1.83 cm 
@@ -27,4 +27,4 @@ Magic Trackpad gives you a whole new way to control what¡¯s on your Mac desktop 
 
 
 ## Thanks
-** [Magic Trackpad Control Panel from Mannis Welt](http://www.mannis-world.de/blog/?p=15&cpage=1)**
+**[Magic Trackpad Control Panel from Mannis Welt](http://www.mannis-world.de/blog/?p=15&cpage=1)**
